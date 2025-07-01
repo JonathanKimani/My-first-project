@@ -1,0 +1,10 @@
+# FocusTunes
+## Helping People Stay in the Zone
+FocusTunes is a simple web project created to help people who struggle with concentration — including those with ADHD or general focus issues. Music can play a big role in improving attention, especially when it’s calm, steady, and free from distractions.This website recommends background music that helps reduce noise in the brain and keeps users locked in. Whether you're studying, working, or just trying to stay present, FocusTunes provides a supportive sound environment to make it easier.
+
+The site includes:
+- A homepage with focus-friendly music suggestions
+- A contact page for users to share their favorite songs
+- A short README that explains the project
+
+This tool is built for anyone who wants better focus, especially those who feel overwhelmed or easily distracted.git
